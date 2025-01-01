@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>SDF Castle</h1>
+  <p>The repository was created solely to explore SDF (Signed Distance Field) and Ray Marching using OpenGL and GLSL shaders.</p>
   <img src="https://raw.githubusercontent.com/0xBLCKLPTN/SDF_Castle/refs/heads/master/screenshots/sc1.png"/>
 </div>
 
